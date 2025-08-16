@@ -4,6 +4,7 @@
 This starter ships production-ready adapters, a minimal demo, tests, and CI.
 
 > Pillar article: https://fivemx.com/converting-fivem-scripts/
+> How to use this adapter: https://fivemx.com/adapter-patterns/
 
 ---
 
