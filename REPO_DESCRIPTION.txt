@@ -1,0 +1,5 @@
+Repo Description (GitHub "About"):
+Drop-in framework adapter for FiveM: run one resource on ESX, QBCore, and QBOX via a tiny FW.* interface. Includes demo, tests, and CI.
+
+Suggested Topics (comma-separated):
+fivem, gta5, gta-rp, esx, qbcore, qbox, lua, ox_inventory, adapter-pattern, ci
